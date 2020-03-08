@@ -1,0 +1,10 @@
+/* purgecss start ignore */
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+
+/* -- Global CSS component styles imported here-- */
+@import "./global.css";
+
+/* purgecss end ignore */
+
+@import "tailwindcss/utilities";
